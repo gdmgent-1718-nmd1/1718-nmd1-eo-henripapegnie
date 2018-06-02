@@ -9,10 +9,13 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    width: 500px;
+    
 }
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
+
 
 /* Voeg jouw css hieraan toe */
